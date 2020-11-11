@@ -1,0 +1,12 @@
+name: Plugin1
+version: 1.0-SNAPSHOT
+main: kaninchenspeed.hideandseek.Main
+api-version: 1.16
+authors: [ KaninchenSpeed ]
+description: plugin1
+
+commands:
+  start:
+    description: Startet eine Hide and Seek Runde
+  info:
+    description: Credits
